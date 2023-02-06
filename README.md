@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-### `node index.js to start the node on the index
+### `node index.js` to start the node on the index
